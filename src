@@ -1,0 +1,76 @@
+<html>
+	<header>
+		<title>pwdHolder</title>
+	</header>
+	<body>
+
+		<table style="font-size:20px;line-height:120%;" border="1" bordercolor="#CEE3F6" rules="none">
+			<tr>
+				<td>・PC1ﾛｸﾞｲﾝ</td>
+			</tr>
+			<tr>
+				<td>
+					　<input type="text" size="14" value="PWD1" accesskey="1" style="color:#FFFFFF;" readonly> PWD
+				</td>
+			</tr>
+			<tr>
+				<td>　</td>
+			</tr>
+						
+			<tr>
+				<td>・PC2ﾛｸﾞｲﾝ</td>
+			</tr>
+			<tr>
+				<td>
+					　<input type="text" size="14" value="PWD2" accesskey="1" style="color:#FFFFFF;" readonly> PWD
+				</td>
+			</tr>
+			<tr>
+				<td>　</td>
+			</tr>
+			
+			<tr>
+				<td>・サイト1ﾛｸﾞｲﾝ</td>
+			</tr>
+			<tr>
+				<td>
+					　<input type="text" size="14" value="ID3" accesskey="1" style="color:#FFFFFF;" readonly> ID
+				</td>
+			</tr>
+			<tr>
+				<td>
+					　<input type="text" size="14" value="PWD3" accesskey="1" style="color:#FFFFFF;" readonly> PWD
+				</td>
+			</tr>
+			<tr>
+				<td>　</td>
+			</tr>
+			
+			<tr>
+				<td>・サイト2ﾛｸﾞｲﾝ</td>
+			</tr>
+			<tr>
+				<td>
+					　<input type="text" size="14" value="ID4" accesskey="1" style="color:#FFFFFF;" readonly> ID
+				</td>
+			</tr>
+			<tr>
+				<td>
+					　<input type="text" size="14" value="PWD4" accesskey="1" style="color:#FFFFFF;" readonly> PWD
+				</td>
+			</tr>
+			<tr>
+				<td>　</td>
+			</tr>
+
+			<tr>
+				<td>・対覗き見用避難場所</td>
+			</tr>
+			<tr>
+				<td>
+					　<input type="text" size="14" value="志村うしろ！" accesskey="1" style="color:#FFFFFF;" readonly>
+				</td>
+			</tr><br>
+		</table>
+	</body>
+</html>
