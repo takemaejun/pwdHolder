@@ -72,5 +72,64 @@
 				</td>
 			</tr><br>
 		</table>
+		<br>
+		<br>
+
+<!-- ---------------------------------------------------------- -->
+		<table style="font-size:17px;color:#6E6E6E;" >
+				<tr align="left">
+					<th>　◆使い方</th>
+				</tr>
+				<tr align="left">
+					<th>　　　●操作</th>
+				</tr>
+				<tr align="left">
+					<td>　　　　　pwdHolder.htmlをダブルクリック。</td>
+				</tr>
+				<tr align="left">
+					<td>　　　　　　＞以下のキー押下毎に枠を移動。</td>
+				</tr>
+				<tr align="left">
+					<td>　　　　　　　　・win：alt+1</td>
+				</tr>
+				<tr align="left">
+					<td>　　　　　　　　・mac：alt+ctrl+1 か tab</td>
+				</tr>
+				<tr align="left">
+					<td>　　　　　　　　　　＞お求めのPWD枠選択時、</td>
+				</tr>
+				<tr align="left">
+					<td>　　　　　　　　　　　＞コピー。</td>
+				</tr>
+				<tr align="left">
+					<td>　　　　　　　　　　　　＞ログインしたいページへ移動し、</td>
+				</tr>
+				<tr align="left">
+					<td>　　　　　　　　　　　　　＞ご希望の入力枠を選択し、</td>
+				</tr>
+				<tr align="left">
+					<td>　　　　　　　　　　　　　　＞ペースト。</td>
+				</tr>
+		</table>
+		<br>
+		
+		<table style="font-size:17px;color:#6E6E6E;" >
+				<tr align="left">
+					<th>　　　●データ編集</th>
+				</tr>
+				<tr align="left">
+					<td>　　　　　pwdHolder.htmlをエディターで開く</td>
+				</tr>
+				<tr align="left">
+					<td>　　　　　　＞inputタグのvalue値にご希望のPWDを入力。</td>
+				</tr>
+				<tr align="left">
+					<td>　　　　　　　＞その上下の行のttタグ内文字列にご希望の概要名を入力。</td>
+				</tr>
+				<tr align="left">
+					<td>　　　　　　　　＞保存。</td>
+				</tr>
+		</table>
+
 	</body>
 </html>
